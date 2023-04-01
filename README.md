@@ -1,1 +1,1 @@
-# Translucent-Status-Bar
+# Translucent Status Bar Sample
